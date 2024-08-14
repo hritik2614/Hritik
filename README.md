@@ -23,6 +23,10 @@ To secure a data science role where I can leverage my skills to solve real-world
 
 
 #📧 Contact Me
+
 Email: hritik2614@gmail.com
+
 Mobile: +91-7726-02614
+
+
 Feel free to reach out for collaboration or just to connect!
