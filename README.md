@@ -1,11 +1,17 @@
 # Hritik
+
 👋 Hi there, I'm Hritik Raj Hasmukh
+
 📍 Location: Jaipur, Rajasthan, India
 
 #🎓 Education
+
 B.Tech in Mining Machinery Engineering
+
 (Department of Mechanical Engineering)
+
 IIT(ISM) Dhanbad, Jharkhand
+
 Graduated: 2024
 
 #💼 Skills and Technologies
