@@ -9,10 +9,14 @@ IIT(ISM) Dhanbad, Jharkhand
 Graduated: 2024
 
 #💼 Skills and Technologies
+
 Programming Languages: Python, SQL
-Data Analysis Tools: Tableau, Power BI
+
+Data Analysis Tools: Tableau, Power BI,  MS Excel
+
 Machine Learning
-Others: Git, GitHub, MS Excel
+
+Others: Git, GitHub
 
 
 🌱 Professional Interests
